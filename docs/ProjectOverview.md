@@ -44,17 +44,17 @@ The system will allow customers to browse tailor profiles, compare services and 
 ## 4. Tools & Technologies
 
 ### Languages/Frameworks
-
-
+- Node.js + Express (Backend REST API)
+- JavaScript (Programming Language)
+- HTML/CSS (Frontend for MVP)
 
 ### Integration Approach
+- REST API
 
-- REST API 
 ### Repository/Services
-
 - GitHub
 - Git
 
 ### Testing Tools
-
-- 
+- Postman (API Testing)
+- Jest (Unit Testing)
