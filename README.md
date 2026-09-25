@@ -4,7 +4,7 @@ Course: ITE412 – System Integration and Architecture 2
 
 Team Name: SEW'SERA
 
-Repository: [GITHUB REPOSITORY LINK]
+Repository: (https://github.com/paulamonta/ITE412_SIA2_TeamSew-sEra_Project.git)
 
 ## Team Members & Roles
 MONTA PAULA S.- PROJECT LEADER
@@ -25,7 +25,7 @@ The system will allow customers to browse tailor profiles, compare services and 
 
 Clone the repository:
 
-`git clone <REPO_URL>`
+`git clone https://github.com/paulamonta/ITE412_SIA2_TeamSew-sEra_Project.git`
 
 Default branch: `main`
 
